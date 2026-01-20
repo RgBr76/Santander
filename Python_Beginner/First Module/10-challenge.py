@@ -15,4 +15,3 @@ print(estoque)
 # print(estoque)
 
 print(estoque[1]['nome']) #Especificamente pega a posição 1 da lista, e o nome da chave 'nome' do dicionário
- 
